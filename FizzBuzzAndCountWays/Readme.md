@@ -19,7 +19,7 @@ Solve 2 algorithm challenges about FizzBuzz and CountingWaysCandies
 3. Run program ChallengeInterview 
 
     ```sh
-    python FizzBuzzAndCountWays.py
+    python fizzBuzzAndCountWays.py
     ```
 
 

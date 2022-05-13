@@ -1,5 +1,5 @@
 # ********************************************************************************
-# FILE: FizzBuzzAndCountWays.py                                                    *
+# FILE: fizzBuzzAndCountWays.py                                                    *
 # DESCRIPTION: The program that solves 2 problems FizzBuzz and Counting Ways     *
 # by using the multiple choice                                                   *
 # Author: Quoc Viet Phung                                                        *
