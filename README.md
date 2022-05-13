@@ -9,13 +9,25 @@ Author : Quoc Viet Phung
 ## Requirement
 - Python 3.9
 
-## Set up environment  
-- Set up requirement for all running.
-
+## Set up environment for running
+- Create virtualenv and venv
+    ```sh
+    pip install virtualenv
+    virtualenv venv --python=python3.9
+    source venv/bin/activate
+    ```
+- Install requirements.txt
     ```sh
     pip install -r requirements.txt
     ```
+- If you want do deactivate venv, type this command
+  
+    ```sh
+    deactivate
+    ```
 
-## Algorithm
 
+## Content
+
+- Basis Python 
 - FizzBuzzAndCountWays
