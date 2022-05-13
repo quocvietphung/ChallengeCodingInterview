@@ -1,30 +1,25 @@
-Challenge Interview 
-===================
-
-Author : Quoc Viet Phung 
-
 ## Introduction 
 <br/>
-A small project to solve 2 algorithm challenges about FizzBuzz and CountingWaysCandies
+Solve 2 algorithm challenges about FizzBuzz and CountingWaysCandies
 
 ## How to run program 
 
 1. Open folder ChallengeInterview
 
     ```sh
-    $ cd ChallengeInterview 
+    cd FizzBuzzAndCountWays 
     ```
 
 2. Install prettytable 
    
     ```sh
-    $ pip3 install prettytable
+    pip3 install prettytable
     ```
    
 3. Run program ChallengeInterview 
 
     ```sh
-    $ python ChallengeInterview.py
+    python FizzBuzzAndCountWays.py
     ```
 
 

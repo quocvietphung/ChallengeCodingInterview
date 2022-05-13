@@ -1,5 +1,5 @@
 # ********************************************************************************
-# FILE: ChallengeInterview.py                                                    *
+# FILE: FizzBuzzAndCountWays.py                                                    *
 # DESCRIPTION: The program that solves 2 problems FizzBuzz and Counting Ways     *
 # by using the multiple choice                                                   *
 # Author: Quoc Viet Phung                                                        *
@@ -67,8 +67,9 @@ def menu():
     choice = input("""
     1: FizzBuzz
     2: Counting ways of candies  
+    3: Exit
       
-    Hint: Press 1 or 2 to run FizzBuzz or Counting ways of candies. If you want to quit, type quit or q. 
+    Hint: Type 1 or 2 to run FizzBuzz or Counting ways of candies. If you want to quit, type 3. 
       
     Please enter your choice: """)
 
@@ -80,7 +81,7 @@ def menu():
         print("\n    ******************************************************************\n")
         displaycountingWays()
         menu()
-    elif choice == "quit" or choice == "q":
+    elif choice == "3":
         print("\n    Thank you, see you again! \n\n******************************************************************\n")
         System.exit
         print()
