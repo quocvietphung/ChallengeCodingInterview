@@ -25,15 +25,15 @@ Solve 2 algorithm challenges about FizzBuzz and CountingWaysCandies
 
 ##Display
 1. Install prettytable
-![PrettyTable](display/prettytable.png)
+![PrettyTable](images/prettytable.png)
 2. Start program
-![Start](display/start.png)
+![Start](images/start.png)
 3. Run FizzBuzz 
-![FizzBuzz](display/fizzbuzz.png)
+![FizzBuzz](images/fizzbuzz.png)
 4. Run CountWays 
-![CountWays](display/countways.png)
+![CountWays](images/countways.png)
 5. Exit programm 
-![Exit](display/quit.png)
+![Exit](images/quit.png)
 
 
 
