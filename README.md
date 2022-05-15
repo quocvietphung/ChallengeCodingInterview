@@ -10,12 +10,18 @@ Author : Quoc Viet Phung
 - Python 3.9
 
 ## Set up environment for venv
-- Create virtualenv and venv
+- Install virtualenv 
     ```sh
     pip install virtualenv
-    virtualenv venv --python=python3.9
-    source venv/bin/activate
     ```
+- Create venv
+  ```sh
+  virtualenv venv --python=/usr/local/bin/python3.9
+  ```
+- Activate venv
+  ```sh
+  source venv/bin/activate
+  ```
 - Install requirements.txt
     ```sh
     pip install -r requirements.txt
