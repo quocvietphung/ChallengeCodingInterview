@@ -54,3 +54,4 @@ Author : Quoc Viet Phung
 - Basis Python 
 - FizzBuzzAndCountWays
 - Hackerrank
+- Logistic regression 
