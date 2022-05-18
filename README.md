@@ -55,3 +55,4 @@ Author : Quoc Viet Phung
 - FizzBuzzAndCountWays
 - Hackerrank
 - Logistic regression 
+- Training
