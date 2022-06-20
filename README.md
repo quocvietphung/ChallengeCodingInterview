@@ -52,6 +52,7 @@ Author : Quoc Viet Phung
 ## Content
 
 - Basis Python 
+- CSV 
 - FizzBuzzAndCountWays
 - Hackerrank
 - Logistic regression 
