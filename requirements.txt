@@ -1,6 +1,7 @@
 prettytable
 numpy
 pandas
-matplotlib==3.5.2
-tensorflow==2.9.0
+matplotlib
+tensorflow
 keras
+jupyter

@@ -7,7 +7,7 @@ Author : Quoc Viet Phung
 - App for solve some algorithm challenges for interview.
 
 ## Requirement
-- Python 3.9
+- Python 3.6
 
 ## Set up environment for venv
 - Install virtualenv 
@@ -16,7 +16,7 @@ Author : Quoc Viet Phung
     ```
 - Create venv
   ```sh
-  virtualenv venv --python=/usr/local/bin/python3.9
+  virtualenv venv --python=/usr/local/bin/python3.8
   ```
 - Activate venv
   ```sh
@@ -34,11 +34,15 @@ Author : Quoc Viet Phung
 ## Set up conda environment
 - Create conda environment
     ```sh
-    conda create -n ChallengeInterview python=3.9
+    conda create -n ChallengeInterview python=3.8
     ```
 - Activate environment ChallengeInterview
     ```sh
     conda activate ChallengeInterview 
+    ```
+- Upgrade requirements.txt
+    ```sh
+    pip install -r requirements.txt --upgrade
     ```
 - Install requirements.txt
     ```sh
