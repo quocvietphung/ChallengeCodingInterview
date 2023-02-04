@@ -7,7 +7,7 @@ Author : Quoc Viet Phung
 - App for solve some algorithm challenges for interview.
 
 ## Requirement
-- Python 3.6
+- Python 3.8
 
 ## Set up environment for venv
 - Install virtualenv 
