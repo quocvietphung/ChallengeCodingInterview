@@ -13,7 +13,7 @@ Solve 2 algorithm challenges about FizzBuzz and CountingWaysCandies
 2. Install prettytable 
    
     ```sh
-    pip3 install prettytable
+    pip install prettytable
     ```
    
 3. Run program ChallengeInterview 
